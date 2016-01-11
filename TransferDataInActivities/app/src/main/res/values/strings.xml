@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TransferDataInActivities</string>
+    <string name="btnToIntentWithSimpleData">Intent传递 字符串and字符串数组</string>
+    <string name="sendAString">传递字符串</string>
+    <string name="sendAArrayString">传递字符串数组</string>
+    <string name="btnToIntentWithBundleData">Intent传递 bundle数据 </string>
+    <string name="btnSendABundle">传递一个Bundle数据(方法一)</string>
+    <string name="btnSendABundle2">传递一个Bundle数据(方法二)</string>
+    <string name="btnToIntentWithValueObject">传递一个值对象</string>
+    <string name="btnSendWithSerializable">采取：Serializable 传递一个值对象</string>
+    <string name="btnSendWithParcelable">采取：Parcelable 传递一个值对象</string>
+    <string name="btnGetDataFromNextActivity">获取下一个Activity返回的数据</string>
+    <string name="btnSendBackData">将输入内容返回上一个Activity</string>
+</resources>
