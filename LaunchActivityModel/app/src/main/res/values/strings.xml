@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LaunchActivityModel</string>
+    <string name="btnStartMainActivity">启动MainActivity</string>
+    <string name="btnStartShowStandardActivity">启动ShowStandardModelActivity</string>
+    <string name="btnStartShowSingleTopActivity">启动ShowSingleTopModelActivity</string>
+    <string name="btnStartShowSingleTaskActivity">启动ShowSingleTaskModelActivity</string>
+    <string name="btnStartShowSingleInstanceActivity">启动ShowSingleInstanceModelActivity</string>
+</resources>
